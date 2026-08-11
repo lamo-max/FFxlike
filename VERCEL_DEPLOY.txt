@@ -1,0 +1,5 @@
+Vercel deployment:
+1. Import this project into Vercel.
+2. Deploy with the included vercel.json.
+3. Add API_KEY as a Vercel Environment Variable if the API requires it.
+4. Do not upload real secrets/tokens into Git.
